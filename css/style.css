@@ -1,0 +1,69 @@
+body{
+    max-width: 960px;
+
+}
+#a{
+    width: 480px;
+    height: 75px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+#b{
+    width: 480px;
+    height: 150px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+#c{
+    width: 480px;
+    height: 125px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+#d{
+    width: 480px;
+    height: 125px;
+    background-color: aqua;
+    border: 1px solid black;
+
+}
+#e{
+    clear: both;
+    width: 240px;
+    height: 250px;
+    background-color: aqua;
+    border: 1px solid black;
+    float: left;
+
+
+}
+#f{
+    width: 240px;
+    height: 250px;
+    background-color: aqua;
+    border: 1px solid black;
+    float: left;
+
+}
+#g{
+    clear: both;
+    width: 240px;
+    height: 250px;
+    background-color: aqua;
+    border: 1px solid black;
+    float: left;
+}
+#h{
+    width: 240px;
+    height: 250px;
+    background-color: aqua;
+    border: 1px solid black;
+    float: left;
+}
+#i{
+    clear: both;
+    width: 480px;
+    height: 80px;
+    background-color: aqua;
+    border: 1px solid black;
+}
